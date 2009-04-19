@@ -2,4 +2,4 @@
 
 for i in open("1.in"):
 	print(i)
-print "labas"
+print "Sveikas"
